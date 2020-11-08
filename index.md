@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Tutorial pvbrowser](https://youtu.be/iMKa_FeDy2g) 
+![Tutorial pvbrowser](https://youtu.be/iMKa_FeDy2g) 
 
 ### Jekyll Themes
 
