@@ -1,6 +1,7 @@
 ## Bem-vindo a GitHub Pages
 
-[Image](Logo_JJMG.png)  
+[Image](Logo_JJMG.png)
+<img src="Logo_JJMG.png" alt="hi" class="inline"/>
 
 You can use the [editor on GitHub](https://github.com/jjmg-eng/teste/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
